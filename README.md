@@ -1,16 +1,23 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# Therapisto 🧠
 
-Currently, two official plugins are available:
+**Therapisto** is a platform that connects therapists with clients, making mental health support more accessible and easier to reach.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The platform aims to simplify the process of finding suitable therapists and connecting with them through a user-friendly digital experience.
 
-## React Compiler
+## 🎯 Project Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Therapisto provides a digital environment where:
+- **Clients** can explore and connect with therapists.
+- **Therapists** can reach clients and manage their professional presence.
+- Users can access a more convenient way to find mental health support.
 
-## Expanding the Oxlint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React.js
+- JavaScript
+- HTML5
+- Tailwind CSS
+- React Router
+- Lucide React
+
