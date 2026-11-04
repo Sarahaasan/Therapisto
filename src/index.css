@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+
+@keyframes float-y {
+  0%, 100% { transform: translateY(-3); }
+  50%      { transform: translateY(-3px); }
+}
+
+.animate-float-y {
+  animation: float-y 1.8s ease-in-out infinite;
+}
+
+.animate-float-y:hover {
+  animation-play-state: paused;
+}
+
+body::selection
+{
+    background-color: #90d2c2;
+    color: black;
+}
