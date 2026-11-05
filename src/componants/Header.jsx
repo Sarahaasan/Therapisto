@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { toast } from "react-toastify";
 import {House,UserRound,Bot,FileText,Search,CalendarCheck,} from "lucide-react";
 import logo from "../assets/images/logo.png";
-
+import "../index.css";
 
 const NAV_LINKS = [
   { label: "الرئيسية", href: "/", icon: House },
